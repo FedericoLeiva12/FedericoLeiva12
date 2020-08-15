@@ -15,6 +15,7 @@ Hoy en día terminé en un área completamente diferente, como lo es el desarrol
 
 Pero mientras, me encuentro estudiando Desarrollo Web Full Stack en una Bootcamp online llamada SoyHenry, donde estudio las siguientes tecnologías:
 
+- **Git:** Aprendemos sus comandos básicos y utilizamos github como plataforma principal del curso, por lo que aprendemos a utilizarla teórica y practicamente.
 - **Javascript avanzado:** Comenzando por estructuras de datos y algoritmos, pasando por Hoisting y Closures, y llegando a Promesas, functiones constructoras, ES6, Programación orientada a objetos, etc.
 - **React:** Donde aprendemos desde lo más básico de la librería, desarrollando pequeños proyectos con lo aprendido. Hasta finalizar con conocimientos de React Hooks, estados, lifecycle, rutas, etc. Más abajo tienen una sección donde iré actualizando con proyectos propios utilizando esta hermosa librería.
 - **Redux:** Aprendemos a utilizar esta librería en proyectos React para mantener estados globales y realizar proyectos más facilmente escalables.
