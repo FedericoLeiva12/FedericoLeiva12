@@ -7,7 +7,7 @@
 ¡Hola!
 Mi nombre es Federico, y soy un estudiante de Desarrollo Web Fullstack.
 
-Tengo 19 años, y comencé mi proceso de aprendizaje cuanod tenía 12 años.
+Tengo 21 años, y comencé mi proceso de aprendizaje cuanod tenía 12 años.
 
 Con curiosidad sobre cómo se crean los videojuegos, llegué a "Entidad 3D", un motor de videojuegos sencillo al estilo Quake donde podías aprender a crear juegos de forma muy sencilla.
 
